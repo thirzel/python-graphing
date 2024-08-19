@@ -1,0 +1,142 @@
+Elemento,Dimensión,Subdimensión,Eje
+1. Carga de trabajo cuantitativa,1. Exigencias Laborales,Exigencias Cuantitativas,negativo
+2. Exigencias cognitivas,1. Exigencias Laborales,Exigencias Cognitivas,positivo
+3. Exigencias emocionales,1. Exigencias Laborales,Exigencias Emocionales,positivo
+4. Exigencias sensoriales,1. Exigencias Laborales,Exigencias Sensoriales,positivo
+5. Exigencia de ocultar emociones,1. Exigencias Laborales,Exigencia de Ocultar Emociones,negativo
+6. Presión de tiempo,1. Exigencias Laborales,Presión de Tiempo,negativo
+7. Demandas físicas,1. Exigencias Laborales,Demandas Físicas,negativo
+8. Fatiga emocional,1. Exigencias Laborales,Fatiga Emocional,negativo
+9. Influencia en el trabajo,2. Influencia y Desarrollo,Influencia en el Trabajo,positivo
+10. Desarrollo profesional,2. Influencia y Desarrollo,Desarrollo Profesional,positivo
+11. Libertad en el trabajo,2. Influencia y Desarrollo,Libertad en el Trabajo,positivo
+12. Sentido de la coherencia,2. Influencia y Desarrollo,Sentido de la Coherencia,positivo
+13. Satisfacción laboral,2. Influencia y Desarrollo,Satisfacción Laboral,positivo
+14. Carrera profesional,2. Influencia y Desarrollo,Carrera Profesional,positivo
+15. Previsión de futuro,2. Influencia y Desarrollo,Previsión de Futuro,positivo
+16. Creatividad en el trabajo,2. Influencia y Desarrollo,Creatividad en el Trabajo,positivo
+17. Relaciones sociales y apoyo,3. Interacción Social y Liderazgo,Relaciones Sociales y Apoyo,positivo
+18. Sentimiento de grupo,3. Interacción Social y Liderazgo,Sentimiento de Grupo,positivo
+19. Liderazgo de supervisores,3. Interacción Social y Liderazgo,Liderazgo de Supervisores,positivo
+20. Feedback,3. Interacción Social y Liderazgo,Feedback,positivo
+21. Justicia organizacional,3. Interacción Social y Liderazgo,Justicia Organizacional,positivo
+22. Confianza en la dirección,3. Interacción Social y Liderazgo,Confianza en la Dirección,positivo
+23. Reconocimiento,3. Interacción Social y Liderazgo,Reconocimiento,positivo
+24. Comunicación con superiores,3. Interacción Social y Liderazgo,Comunicación con Superiores,positivo
+25. Comunicación horizontal,3. Interacción Social y Liderazgo,Comunicación Horizontal,positivo
+26. Participación en decisiones,3. Interacción Social y Liderazgo,Participación en Decisiones,positivo
+27. Inseguridad en el empleo,4. Inseguridad Laboral,Inseguridad en el Empleo,negativo
+28. Previsibilidad,4. Inseguridad Laboral,Previsibilidad,negativo
+29. Seguridad en la continuidad del trabajo,4. Inseguridad Laboral,Seguridad en la Continuidad del Trabajo,positivo
+30. Autonomía,5. Trabajo y Entorno,Autonomía y Participación en Decisiones,positivo
+31. Claridad de rol,5. Trabajo y Entorno,Claridad de Rol,positivo
+32. Conflictos de rol,5. Trabajo y Entorno,Conflictos de Rol,negativo
+33. Calidad del entorno de trabajo,5. Trabajo y Entorno,Calidad del Entorno de Trabajo,positivo
+34. Conciliación vida personal-laboral,5. Trabajo y Entorno,Conciliación Vida Personal-Laboral,positivo
+35. Claridad en la comunicación,5. Trabajo y Entorno,Claridad en la Comunicación,positivo
+36. Toma de decisiones,5. Trabajo y Entorno,Toma de Decisiones,positivo
+37. Claridad en la organización,5. Trabajo y Entorno,Claridad en la Organización,positivo
+38. Apoyo en el desarrollo profesional,5. Trabajo y Entorno,Apoyo en el Desarrollo Profesional,positivo
+39. Relación con supervisores,5. Trabajo y Entorno,Relación con Supervisores,positivo
+40. Seguridad en el entorno laboral,5. Trabajo y Entorno,Seguridad en el Entorno Laboral,positivo
+41. Estrés conductual,6. Salud y Bienestar,Estrés Conductual,negativo
+42. Salud mental,6. Salud y Bienestar,Salud Mental,positivo
+43. Salud física,6. Salud y Bienestar,Salud Física,positivo
+44. Burnout,6. Salud y Bienestar,Burnout,negativo
+45. Calidad de vida,6. Salud y Bienestar,Calidad de Vida,positivo
+46. Bienestar emocional,6. Salud y Bienestar,Bienestar Emocional,positivo
+47. Equilibrio emocional,6. Salud y Bienestar,Equilibrio Emocional,positivo
+48. Seguridad emocional,6. Salud y Bienestar,Seguridad Emocional,positivo
+49. Compromiso,7. Valores y Actitudes,Compromiso,positivo
+50. Orgullo por el trabajo,7. Valores y Actitudes,Orgullo por el Trabajo,positivo
+51. Sentido del propósito,7. Valores y Actitudes,Sentido del Propósito,positivo
+52. Sentimiento de utilidad,7. Valores y Actitudes,Sentimiento de Utilidad,positivo
+53. Sentimiento de pertenencia,7. Valores y Actitudes,Sentimiento de Pertenencia,positivo
+54. Sentimiento de logro,7. Valores y Actitudes,Sentimiento de Logro,positivo
+55. Conciencia social,7. Valores y Actitudes,Conciencia Social,positivo
+56. Confiabilidad,7. Valores y Actitudes,Confiabilidad,positivo
+57. Autoestima,7. Valores y Actitudes,Autoestima,positivo
+58. Orgullo,7. Valores y Actitudes,Orgullo,positivo
+59. Conciencia de la responsabilidad social,7. Valores y Actitudes,Conciencia de la Responsabilidad Social,positivo
+60. Sentido de responsabilidad,7. Valores y Actitudes,Sentido de Responsabilidad,positivo
+61. Resistencia al cambio,8. Factores de la Personalidad,Resistencia al Cambio,negativo
+62. Adaptación al cambio,8. Factores de la Personalidad,Adaptación al Cambio,positivo
+63. Manejo de conflictos,8. Factores de la Personalidad,Manejo de Conflictos,positivo
+64. Resistencia a la frustración,8. Factores de la Personalidad,Resistencia a la Frustración,negativo
+65. Capacidad de resolución de problemas,8. Factores de la Personalidad,Capacidad de Resolución de Problemas,positivo
+66. Iniciativa personal,8. Factores de la Personalidad,Iniciativa Personal,positivo
+67. Autocontrol emocional,8. Factores de la Personalidad,Autocontrol Emocional,positivo
+68. Capacidad de adaptación,8. Factores de la Personalidad,Capacidad de Adaptación,positivo
+69. Independencia,8. Factores de la Personalidad,Independencia,positivo
+70. Flexibilidad,8. Factores de la Personalidad,Flexibilidad,positivo
+71. Ambición laboral,8. Factores de la Personalidad,Ambición Laboral,positivo
+72. Motivación laboral,8. Factores de la Personalidad,Motivación Laboral,positivo
+73. Compromiso organizacional,8. Factores de la Personalidad,Compromiso Organizacional,positivo
+74. Capacidad de resolución de problemas,8. Factores de la Personalidad,Capacidad de Resolución de Problemas,positivo
+75. Sentido del propósito,8. Factores de la Personalidad,Sentido del Propósito,positivo
+76. Sentimiento de pertenencia,8. Factores de la Personalidad,Sentimiento de Pertenencia,positivo
+77. Seguridad emocional,8. Factores de la Personalidad,Seguridad Emocional,positivo
+78. Capacidad de influencia,8. Factores de la Personalidad,Capacidad de Influencia,positivo
+79. Sentimiento de competencia,8. Factores de la Personalidad,Sentimiento de Competencia,positivo
+80. Autonomía,8. Factores de la Personalidad,Autonomía,positivo
+81. Flexibilidad en el trabajo,8. Factores de la Personalidad,Flexibilidad en el Trabajo,positivo
+82. Claridad de las expectativas,8. Factores de la Personalidad,Claridad de las Expectativas,positivo
+83. Feedback constructivo,8. Factores de la Personalidad,Feedback Constructivo,positivo
+84. Sentimiento de logro,8. Factores de la Personalidad,Sentimiento de Logro,positivo
+85. Tolerancia al estrés,8. Factores de la Personalidad,Tolerancia al Estrés,positivo
+86. Claridad en la comunicación,8. Factores de la Personalidad,Claridad en la Comunicación,positivo
+87. Equilibrio entre trabajo y vida personal,8. Factores de la Personalidad,Equilibrio entre Trabajo y Vida Personal,positivo
+88. Satisfacción personal,8. Factores de la Personalidad,Satisfacción Personal,positivo
+89. Satisfacción general,8. Factores de la Personalidad,Satisfacción General,positivo
+90. Calidad de vida,8. Factores de la Personalidad,Calidad de Vida,positivo
+91. Sentimiento de logro,8. Factores de la Personalidad,Sentimiento de Logro,positivo
+92. Seguridad en la toma de decisiones,8. Factores de la Personalidad,Seguridad en la Toma de Decisiones,positivo
+93. Capacidad de adaptación,8. Factores de la Personalidad,Capacidad de Adaptación,positivo
+94. Capacidad de aprendizaje,8. Factores de la Personalidad,Capacidad de Aprendizaje,positivo
+95. Manejo del estrés,8. Factores de la Personalidad,Manejo del Estrés,negativo
+96. Relaciones interpersonales,9. Relaciones Interpersonales,Relaciones Interpersonales,positivo
+97. Relaciones con compañeros,9. Relaciones Interpersonales,Relaciones con Compañeros,positivo
+98. Relaciones de apoyo,9. Relaciones Interpersonales,Relaciones de Apoyo,positivo
+99. Comunicación con clientes,9. Relaciones Interpersonales,Comunicación con Clientes,positivo
+100. Confianza en los compañeros,9. Relaciones Interpersonales,Confianza en los Compañeros,positivo
+101. Comunicación con supervisores,9. Relaciones Interpersonales,Comunicación con Supervisores,positivo
+102. Confianza en la dirección,9. Relaciones Interpersonales,Confianza en la Dirección,positivo
+103. Comunicación horizontal,9. Relaciones Interpersonales,Comunicación Horizontal,positivo
+104. Participación activa en la organización,9. Relaciones Interpersonales,Participación Activa en la Organización,positivo
+105. Cohesión del grupo de trabajo,9. Relaciones Interpersonales,Cohesión del Grupo de Trabajo,positivo
+106. Sentido de la pertenencia,9. Relaciones Interpersonales,Sentido de la Pertenencia,positivo
+107. Orgullo por el trabajo,9. Relaciones Interpersonales,Orgullo por el Trabajo,positivo
+108. Apoyo social externo,9. Relaciones Interpersonales,Apoyo Social Externo,positivo
+109. Confianza en la dirección,9. Relaciones Interpersonales,Confianza en la Dirección,positivo
+110. Comunicación con clientes,9. Relaciones Interpersonales,Comunicación con Clientes,positivo
+111. Calidad del liderazgo,10. Liderazgo,Calidad del Liderazgo,positivo
+112. Claridad en la organización,10. Liderazgo,Claridad en la Organización,positivo
+113. Consistencia en las políticas de la empresa,10. Liderazgo,Consistencia en las Políticas de la Empresa,positivo
+114. Integración de la vida personal y laboral,10. Liderazgo,Integración de la Vida Personal y Laboral,positivo
+115. Participación en la comunidad,10. Liderazgo,Participación en la Comunidad,positivo
+116. Cumplimiento de expectativas,10. Liderazgo,Cumplimiento de Expectativas,positivo
+117. Claridad en la asignación de tareas,10. Liderazgo,Claridad en la Asignación de Tareas,positivo
+118. Claridad en la comunicación,10. Liderazgo,Claridad en la Comunicación,positivo
+119. Participación en decisiones,10. Liderazgo,Participación en Decisiones,positivo
+120. Comunicación en la organización,10. Liderazgo,Comunicación en la Organización,positivo
+121. Claridad en la toma de decisiones,10. Liderazgo,Claridad en la Toma de Decisiones,positivo
+122. Comunicación con los empleados,10. Liderazgo,Comunicación con los Empleados,positivo
+123. Claridad en las políticas de la empresa,10. Liderazgo,Claridad en las Políticas de la Empresa,positivo
+124. Feedback en el desempeño,10. Liderazgo,Feedback en el Desempeño,positivo
+125. Satisfacción con el equipo de trabajo,11. Satisfacción,Satisfacción con el Equipo de Trabajo,positivo
+126. Satisfacción con las condiciones de trabajo,11. Satisfacción,Satisfacción con las Condiciones de Trabajo,positivo
+127. Satisfacción con el entorno laboral,11. Satisfacción,Satisfacción con el Entorno Laboral,positivo
+128. Valoración del trabajo,11. Satisfacción,Valoración del Trabajo,positivo
+129. Satisfacción general,11. Satisfacción,Satisfacción General,positivo
+130. Satisfacción con las relaciones interpersonales,11. Satisfacción,Satisfacción con las Relaciones Interpersonales,positivo
+131. Satisfacción con el liderazgo,11. Satisfacción,Satisfacción con el Liderazgo,positivo
+132. Satisfacción con el apoyo social,11. Satisfacción,Satisfacción con el Apoyo Social,positivo
+133. Satisfacción con el trabajo,11. Satisfacción,Satisfacción con el Trabajo,positivo
+134. Satisfacción con la vida laboral,11. Satisfacción,Satisfacción con la Vida Laboral,positivo
+135. Satisfacción con el clima laboral,11. Satisfacción,Satisfacción con el Clima Laboral,positivo
+136. Satisfacción con las relaciones de apoyo,11. Satisfacción,Satisfacción con las Relaciones de Apoyo,positivo
+137. Satisfacción con el trabajo en equipo,11. Satisfacción,Satisfacción con el Trabajo en Equipo,positivo
+138. Satisfacción con la vida personal,11. Satisfacción,Satisfacción con la Vida Personal,positivo
+139. Satisfacción con la integración de la vida personal y laboral,11. Satisfacción,Satisfacción con la Integración de la Vida Personal y Laboral,positivo
+140. Satisfacción con el desarrollo profesional,11. Satisfacción,Satisfacción con el Desarrollo Profesional,positivo
+141. Satisfacción con el liderazgo de los supervisores,11. Satisfacción,Satisfacción con el Liderazgo de los Supervisores,positivo
